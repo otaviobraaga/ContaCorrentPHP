@@ -10,7 +10,7 @@ Funcionalidades
     Proteção contra saques com saldo insuficiente
     Proteção contra operações em contas fechadas
 
-#Utilização
+# Utilização
 
 Para usar esta classe, você precisará criar uma nova instância da classe e chamar os métodos apropriados.
 Exemplo:
@@ -23,11 +23,11 @@ $minha_conta->deposit(100);
 $minha_conta->withdrawn(50);
 echo "Saldo atual: " . $minha_conta->getBalance();
 
-#Observação
+# Observação
 
 Este é um projeto de nível junior, então algumas funcionalidades podem estar faltando ou não estar otimizadas.
 
-#Como contribuir
+# Como contribuir
 
 Se você deseja contribuir com este projeto, você pode:
 
