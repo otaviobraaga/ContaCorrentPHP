@@ -15,6 +15,7 @@ Funcionalidades
 Para usar esta classe, você precisará criar uma nova instância da classe e chamar os métodos apropriados.
 Exemplo:
 
+
 ```php
 $minha_conta = new BankAccount();
 $minha_conta->openAccount("CC");
@@ -31,7 +32,7 @@ Este é um projeto de nível junior, então algumas funcionalidades podem estar 
 
 Se você deseja contribuir com este projeto, você pode:
 
-    Reportar bugs e sugerir novas funcionalidades
-    Criar pull requests para corrigir problemas ou adicionar funcionalidades
+   - Reportar bugs e sugerir novas funcionalidades
+   - Criar pull requests para corrigir problemas ou adicionar funcionalidades
 
 Este projeto é mantido por mim, sinta-se à vontade para entrar em contato comigo se tiver alguma sugestão.
