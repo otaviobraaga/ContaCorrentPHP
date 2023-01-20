@@ -1,4 +1,4 @@
-#Conta Bancária
+# Conta Bancária
 
 Este é um projeto de uma simples classe de conta bancária, escrito em PHP. Ela permite abrir e fechar contas, depositar e sacar dinheiro e cobrar tarifas mensais.
 Funcionalidades
@@ -15,6 +15,7 @@ Funcionalidades
 Para usar esta classe, você precisará criar uma nova instância da classe e chamar os métodos apropriados.
 Exemplo:
 
+```php
 $minha_conta = new BankAccount();
 $minha_conta->openAccount("CC");
 $minha_conta->setOwner("Lucas");
